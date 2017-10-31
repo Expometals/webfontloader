@@ -43,7 +43,9 @@ var WEBFONT = 'WebFont';
  */
 var WEBFONT_CONFIG = 'WebFontConfig';
 
-window = typeof window === 'undefined' ? null : window;
+if(typeof window === 'undefined'){
+  window = {};
+}
 /**
  * @type {webfont.WebFont}
  */

@@ -110,6 +110,7 @@ DESC
     lib/webfontloader/demo/public/typekit.html
     lib/webfontloader/demo/server.rb
     lib/webfontloader/modules.rb
+    package-lock.json
     package.json
     spec/core/cssclassname_spec.js
     spec/core/domhelper_spec.js
@@ -180,6 +181,7 @@ DESC
     tools/jasmine/jasmine-html.js
     tools/jasmine/jasmine.css
     tools/jasmine/jasmine.js
+    webfontloader-1.6.28.gem
     webfontloader.gemspec
     webfontloader.js
   ]
