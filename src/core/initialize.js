@@ -43,7 +43,7 @@ var WEBFONT = 'WebFont';
  */
 var WEBFONT_CONFIG = 'WebFontConfig';
 
-if(typeof window === 'undefined'){
+if(!window){
   window = {};
 }
 /**
